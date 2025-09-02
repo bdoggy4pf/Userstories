@@ -1,22 +1,13 @@
 # INTRO
 'Innihald' er farsímaforrit sem leyfir notendum að skanna innihaldslýsingar (eða leita eftir nafni) til að sjá hvort vara innihaldi algenga ofnæmis- og óþolsvalda (t.d. glúten, hnetur, laktósa, soja, egg) og fá grunnupplýsingar um vöruna. Appið sýnir skýrar viðvaranir, einfaldar merkingar („öruggt/varúð/forðast“), næringarupplýsingar og stutta samantekt um framleiðanda. Notendur geta stillt eigið „prófíl“ með ofnæmi/óþoli og fengið niðurstöður sniðnar að sér.
 
-# Userstories:
+# Userstories - Who/What/Why:
 
-1. Sem neytandi með glútenóþol vil ég geta skannað vöru og séð strax hvort hún sé glútenlaus þannig að ég geti keypt hana örugglega.
+1. Sem neytandi með glútenóþol vil ég geta skannað vöru og séð strax hvort hún sé glútenlaus þannig að ég geti keypt hana örugglega & fljótlega.
 
 2. Sem foreldri barns með hnetuofnæmi vil ég geta stillt prófíl með „forðast hnetur“ þannig að appið varar mig við ef vara inniheldur hnetur.
 
-# User Scenarios:
+3. Sem næringarfræðingur vil ég geta mælt með vörum fyrir kúnna mína. Ég vil geta fljótlega flett upp vöru til að sniða matarprógrammi fyrir einstaklinga.
 
-1. Scenario
-WHO? - Nemandi með glúteinsóþol
-WHAT? - Skannar snakk, appið sýnir „FORÐAST“ (inniheldur bygg). Neminn velur aðra vöru, skannar og fær „ÖRUGGT“.
-WHY? - Sparar tíma og forðast einkenni.
-
-2. Scenario
-WHO? - Foreldri barns með hnetuofnæmi.
-WHAT? - Með stillingu „forðast hnetur“. Skannar kex, appið sýnir „VARÚÐ – getur innihaldið hnetur“. Foreldrið velur öruggan valkost sem appið stingur upp á.
-WHY? - Minnkar áhættu og eykur öryggi.
 
 <img width="831" height="611" alt="image" src="https://github.com/user-attachments/assets/635b7df9-e377-421f-bd97-dd2e05eb843c" />
