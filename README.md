@@ -20,3 +20,5 @@ WHAT? - Með stillingu „forðast hnetur“. Skannar kex, appið sýnir „VAR�
 WHY? - Minnkar áhættu og eykur öryggi.
 
 ![wireflow](https://github.com/user-attachments/assets/3c3c511c-4418-4dd3-9dfa-0cc3a439fa93)
+
+<img width="831" height="611" alt="image" src="https://github.com/user-attachments/assets/635b7df9-e377-421f-bd97-dd2e05eb843c" />
